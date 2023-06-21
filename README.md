@@ -1,0 +1,2 @@
+# LocalStorage
+Instruction about LocalStorage
